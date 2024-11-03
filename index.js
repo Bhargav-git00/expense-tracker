@@ -40,10 +40,10 @@ const state = {
           </div>
           <div class="lower">
           <div class="icon" onclick="handleUpdate(${id})">
-              <img src="./icons/pen.svg" alt="pen" />
+              <img src="pen.svg" alt="pen" />
           </div>
           <div class="icon" onclick="handleDelete(${id})">
-              <img src="./icons/trash.svg" alt="trash" />
+              <img src="trash.svg" alt="trash" />
           </div>
           </div>
     </div>`;
